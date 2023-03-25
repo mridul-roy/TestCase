@@ -1,0 +1,15 @@
+E:\Advance C#\ERelation\ERelation\bin\Debug\net6.0\ERelation.exe
+E:\Advance C#\ERelation\ERelation\bin\Debug\net6.0\ERelation.deps.json
+E:\Advance C#\ERelation\ERelation\bin\Debug\net6.0\ERelation.runtimeconfig.json
+E:\Advance C#\ERelation\ERelation\bin\Debug\net6.0\ERelation.dll
+E:\Advance C#\ERelation\ERelation\bin\Debug\net6.0\ERelation.pdb
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\ERelation.csproj.AssemblyReference.cache
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\ERelation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\ERelation.AssemblyInfoInputs.cache
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\ERelation.AssemblyInfo.cs
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\ERelation.csproj.CoreCompileInputs.cache
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\ERelation.dll
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\refint\ERelation.dll
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\ERelation.pdb
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\ERelation.genruntimeconfig.cache
+E:\Advance C#\ERelation\ERelation\obj\Debug\net6.0\ref\ERelation.dll
